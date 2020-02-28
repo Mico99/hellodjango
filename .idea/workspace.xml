@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ddda129-0d68-478d-8ddb-156c3f917fa3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YKmOzylytM700sZZFMSwM3ThTt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/vote/fonts" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/vote" />
+      <recent name="$PROJECT_DIR$/vote/captcha" />
+      <recent name="$PROJECT_DIR$/vote/migrations" />
+      <recent name="$PROJECT_DIR$/vote/fonts" />
+      <recent name="$PROJECT_DIR$/vote/static/images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/vote/fonts" />
+      <recent name="$PROJECT_DIR$/vote/static/image" />
+      <recent name="$PROJECT_DIR$/vote/static/images" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.apps">
+    <configuration name="apps" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="hellodjango" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/vote" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vote/apps.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="hellodjango" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/vote" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vote/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.apps" />
+        <item itemvalue="Python.views" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ddda129-0d68-478d-8ddb-156c3f917fa3" name="Default Changelist" comment="" />
+      <created>1582699631718</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582699631718</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1041" y="242" key="#Notifications" timestamp="1582699818890">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1041" y="242" key="#Notifications/0.23.1920.1057/-1440.23.1440.877@0.23.1920.1057" timestamp="1582699818890" />
+    <state x="1126" y="361" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582895315499">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1126" y="361" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.1057/-1440.23.1440.877@0.23.1920.1057" timestamp="1582895315499" />
+    <state width="918" height="357" key="GridCell.Tab.0.bottom" timestamp="1582907672410">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="918" height="357" key="GridCell.Tab.0.bottom/0.23.1920.1057/-1440.23.1440.877@0.23.1920.1057" timestamp="1582907672410" />
+    <state width="709" height="357" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1582811407396" />
+    <state width="918" height="357" key="GridCell.Tab.0.center" timestamp="1582907672409">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="918" height="357" key="GridCell.Tab.0.center/0.23.1920.1057/-1440.23.1440.877@0.23.1920.1057" timestamp="1582907672409" />
+    <state width="709" height="357" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1582811407394" />
+    <state width="918" height="357" key="GridCell.Tab.0.left" timestamp="1582907672408">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="918" height="357" key="GridCell.Tab.0.left/0.23.1920.1057/-1440.23.1440.877@0.23.1920.1057" timestamp="1582907672408" />
+    <state width="709" height="357" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1582811407394" />
+    <state width="918" height="357" key="GridCell.Tab.0.right" timestamp="1582907672410">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="918" height="357" key="GridCell.Tab.0.right/0.23.1920.1057/-1440.23.1440.877@0.23.1920.1057" timestamp="1582907672410" />
+    <state width="709" height="357" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1582811407395" />
+    <state width="918" height="357" key="GridCell.Tab.1.bottom" timestamp="1582907669759">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="918" height="357" key="GridCell.Tab.1.bottom/0.23.1920.1057/-1440.23.1440.877@0.23.1920.1057" timestamp="1582907669759" />
+    <state width="709" height="357" key="GridCell.Tab.1.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1582811407397" />
+    <state width="918" height="357" key="GridCell.Tab.1.center" timestamp="1582907669757">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="918" height="357" key="GridCell.Tab.1.center/0.23.1920.1057/-1440.23.1440.877@0.23.1920.1057" timestamp="1582907669757" />
+    <state width="709" height="357" key="GridCell.Tab.1.center/0.23.1920.1057@0.23.1920.1057" timestamp="1582811407396" />
+    <state width="918" height="357" key="GridCell.Tab.1.left" timestamp="1582907669756">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="918" height="357" key="GridCell.Tab.1.left/0.23.1920.1057/-1440.23.1440.877@0.23.1920.1057" timestamp="1582907669756" />
+    <state width="709" height="357" key="GridCell.Tab.1.left/0.23.1920.1057@0.23.1920.1057" timestamp="1582811407396" />
+    <state width="918" height="357" key="GridCell.Tab.1.right" timestamp="1582907669757">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="918" height="357" key="GridCell.Tab.1.right/0.23.1920.1057/-1440.23.1440.877@0.23.1920.1057" timestamp="1582907669757" />
+    <state width="709" height="357" key="GridCell.Tab.1.right/0.23.1920.1057@0.23.1920.1057" timestamp="1582811407397" />
+    <state x="436" y="164" key="SettingsEditor" timestamp="1582884119165">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="436" y="164" key="SettingsEditor/0.23.1920.1057/-1440.23.1440.877@0.23.1920.1057" timestamp="1582884119165" />
+    <state x="35" y="134" width="1745" height="857" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1582885404017">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="35" y="134" width="1745" height="857" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1920.1057/-1440.23.1440.877@0.23.1920.1057" timestamp="1582885404017" />
+    <state x="271" y="608" width="645" height="472" key="find.popup" timestamp="1582776729813">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="271" y="608" width="645" height="472" key="find.popup/0.23.1920.1057/-1440.23.1440.877@0.23.1920.1057" timestamp="1582776729813" />
+    <state x="76" y="442" width="700" height="530" key="recent.locations.popup" timestamp="1582903814034">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="76" y="442" width="700" height="530" key="recent.locations.popup/0.23.1920.1057/-1440.23.1440.877@0.23.1920.1057" timestamp="1582903814034" />
+    <state x="531" y="572" width="670" height="676" key="search.everywhere.popup" timestamp="1582906559906">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="531" y="572" width="670" height="676" key="search.everywhere.popup/0.23.1920.1057/-1440.23.1440.877@0.23.1920.1057" timestamp="1582906559906" />
+  </component>
+</project>

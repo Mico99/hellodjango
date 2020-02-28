@@ -1,0 +1,11 @@
+2020-02-27 18:34:52 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2020-02-27 18:35:42 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2020-02-27 18:37:21 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2020-02-27 18:40:27 autoreload.trigger_reload: /Users/qiuchuanshou/hellodjango/vote/views.py changed, reloading.
+2020-02-27 18:40:28 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2020-02-27 18:49:13 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2020-02-27 18:49:43 autoreload.trigger_reload: /Users/qiuchuanshou/hellodjango/vote/views.py changed, reloading.
+2020-02-27 18:49:45 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2020-02-27 18:49:58 autoreload.trigger_reload: /Users/qiuchuanshou/hellodjango/vote/views.py changed, reloading.
+2020-02-27 18:49:59 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2020-02-27 18:50:34 autoreload.trigger_reload: /Users/qiuchuanshou/hellodjango/hellodjango/settings.py changed, reloading.
