@@ -1,8 +1,7 @@
 import os
-import random
 from io import BytesIO
-
 import xlwt
+
 from django.contrib.admin.utils import quote
 from django.db.models import Avg
 from django.http import JsonResponse, HttpResponse, HttpRequest, StreamingHttpResponse

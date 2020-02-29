@@ -37,7 +37,6 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'debug_toolbar',
     'vote',
-    'hrs',
 ]
 
 MIDDLEWARE = [
@@ -113,7 +112,7 @@ DATABASES = {
     },
 }
 
-TABASE_ROUTERS = ['hellodjango.database_router.DatabaseAppsRouter']
+DATABASE_ROUTERS = ['hellodjango.database_router.DatabaseAppsRouter']
 DATABASE_APPS_MAPPING = {
     # example:
     # 'app_name':'database_name',

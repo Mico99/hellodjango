@@ -1,4 +1,4 @@
-#!/Users/qiuchuanshou/hellodjango/venv/bin/python3
+#!/Users/mico/hellodjango/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
